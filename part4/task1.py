@@ -1,0 +1,7 @@
+a = input("Ten dang nhap? ")
+b = input("Mat khau? ")
+c = input("email? ")
+print("Done")
+print(a)
+print(b)
+print(c)

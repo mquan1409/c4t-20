@@ -1,0 +1,1 @@
+print('la so chan' if int(input())%2==0 else 'la so le')

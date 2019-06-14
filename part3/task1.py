@@ -1,0 +1,1 @@
+print('lon hon' if int(input())>13 else 'be hon')
